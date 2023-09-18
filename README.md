@@ -1,0 +1,1 @@
+# SimplifiedCurrencyCalculator-by-AK4CZ
